@@ -43,3 +43,66 @@ Let's take a look at the average age of the sports that have been ongoing since 
 ![image](https://user-images.githubusercontent.com/65595060/187801161-1c3133c2-6bf2-41cf-beee-5596cc87e471.png)
 
 The below graph shows the number of medals won based on gender. We can see that the medals won by Men are almost three times compared to the medals won by female athletes. I was confused as to why this would happen and we might find our answer to this in the upcoming sections.
+
+![image](https://user-images.githubusercontent.com/65595060/187801280-1c6d778f-46a2-481a-b9eb-f22a8f4eabc6.png)
+
+Let's look at the number of medals won in the Top 10 sports per season from 1896 to 2016. In the top ten sports at both the summer and winter Olympics combined, we can see that Athletics has the most medals won, while cycling has the least.
+
+![image](https://user-images.githubusercontent.com/65595060/187801325-e6114689-b17b-42cc-b2da-166d5da12e04.png)
+
+
+In the below visualization, for 2016, we can observe that the countries with the lowest GDP only have one medal, whilst the countries with the highest GDP have more than 50 medals, with the United States having the most with 265 medals. All of this shows that overall medal successes in the Olympics are linked to a country's total GDP. 
+
+
+![image](https://user-images.githubusercontent.com/65595060/187801389-d3a0fa05-dc71-4ff1-b914-ad42181e7351.png)
+
+
+In the next graph, we can notice some erratic behavior. It appears that a country's population has no bearing on its medal victories. Australia, with a population of over 2 billion people, has won roughly 82 medals, compared to Japan, which has an 8 billion people but just 64 medals.
+
+
+![image](https://user-images.githubusercontent.com/65595060/187801458-b71810dd-f3d1-45c2-94fa-ddbeedeef71c.png)
+
+
+The below two graphs help us find the total medals won by some of the top countries in the world and also helps to understand the top host cities where these countries won these medals. This graph is for Summer Olympics where we see that United Sates has the highest number of winnings. It won them in seven host cities including Atlanta, Beijing and Rio de Janeiro.
+
+![image](https://user-images.githubusercontent.com/65595060/187801563-e53764f7-9a43-4117-90ab-c65bfc014be4.png)
+
+
+![image](https://user-images.githubusercontent.com/65595060/187801596-0a8c828c-2fb1-4a2e-bc4e-5923e915fb24.png)
+
+
+For 2016, we can find the countries who won the most medals during summer Olympics in the below map.
+
+
+![image](https://user-images.githubusercontent.com/65595060/187801683-75d1251c-28d9-44ca-8509-e9ec2694a071.png)
+
+
+We know that humans have been generally sexist in many ways for a long time, unfortunately throughout history, and the inclusion of women in Olympic athletes is no exception. We can see if inclusion has increased or reduced at this worldwide event from 1896 to 2016 in the visualization. This chart is for the summer Olympics.
+As you can see, there has been a noticeable increase in the involvement of the female sex in competitions; yet, the male sex continues to dominate, though the gap is not as large as it once was. This, I believe, is one of the reasons why on an overall scenario from 1896 to 2016, men's total winnings are nearly three times those of women.
+
+![image](https://user-images.githubusercontent.com/65595060/187801773-90f54d48-36e6-4393-9239-dab5bb050c12.png)
+
+The number of events in both the summer and winter Olympics has increased throughout time, as seen in the line graph below. We can also notice that the first winter Olympics were held in 1924, as well.
+
+![image](https://user-images.githubusercontent.com/65595060/187801815-6081843d-b559-49ae-bd75-0fae355a1e70.png)
+
+
+#### Conclusion:
+a) Looking at the economic effect, it looked like the total GDP of a country is more significant to find the winnings in the recent years compared to population.
+b) The age range of players winning the medals has decreased over the years and an optimal age for some of the sports can be identified in the recent years.
+c) Over the years, inclusion of female athletes has increased such that the gap between the number of females and male athletes taking part is minimal from 1896 to        2016. 
+d) The number of events has increased over the years for both summer and winter Olympics. Some of the additional research questions are:
+   a) Does host countries have better chance of winning medals in Olympics?
+   b) Has the number of athletes and countries taking part in Olympics increase over time or decrease?
+
+#### Sources and References:
+
+a) I got the data about each athlete who took part in Olympics from 1896 to 2016 (athlete_events.csv) from the below Kaggle website.            https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes- and-results
+b) The GDP data about each country (1990 to 2019) was from the below source: 
+   “Gapminder GDP per capita, constant PPP dollars- v25”
+   https://www.gapminder.org/data/documentation/gd001/
+c) The data about the total population of each country from 1800 to 2100 was from:
+   “Gapminder Total Population v6”
+   https://www.gapminder.org/data/documentation/gd003/
+
+
