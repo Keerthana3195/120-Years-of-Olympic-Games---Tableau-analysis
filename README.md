@@ -89,10 +89,14 @@ The number of events in both the summer and winter Olympics has increased throug
 
 #### Conclusion:
 a) Looking at the economic effect, it looked like the total GDP of a country is more significant to find the winnings in the recent years compared to population.
+
 b) The age range of players winning the medals has decreased over the years and an optimal age for some of the sports can be identified in the recent years.
+
 c) Over the years, inclusion of female athletes has increased such that the gap between the number of females and male athletes taking part is minimal from 1896 to        2016. 
 d) The number of events has increased over the years for both summer and winter Olympics. Some of the additional research questions are:
+
    a) Does host countries have better chance of winning medals in Olympics?
+   
    b) Has the number of athletes and countries taking part in Olympics increase over time or decrease?
 
 #### Sources and References:
