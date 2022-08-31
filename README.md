@@ -95,16 +95,18 @@ b) The age range of players winning the medals has decreased over the years and 
 c) Over the years, inclusion of female athletes has increased such that the gap between the number of females and male athletes taking part is minimal from 1896 to        2016. 
 d) The number of events has increased over the years for both summer and winter Olympics. Some of the additional research questions are:
 
-   a) Does host countries have better chance of winning medals in Olympics?
+   * Does host countries have better chance of winning medals in Olympics?
    
-   b) Has the number of athletes and countries taking part in Olympics increase over time or decrease?
+   * Has the number of athletes and countries taking part in Olympics increase over time or decrease?
 
 #### Sources and References:
 
 a) I got the data about each athlete who took part in Olympics from 1896 to 2016 (athlete_events.csv) from the below Kaggle website.            https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes- and-results
+
 b) The GDP data about each country (1990 to 2019) was from the below source: 
    “Gapminder GDP per capita, constant PPP dollars- v25”
    https://www.gapminder.org/data/documentation/gd001/
+   
 c) The data about the total population of each country from 1800 to 2100 was from:
    “Gapminder Total Population v6”
    https://www.gapminder.org/data/documentation/gd003/
